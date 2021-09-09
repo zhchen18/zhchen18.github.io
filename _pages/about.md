@@ -17,7 +17,7 @@ Publication
 
 	**Zhuang Chen**, Tieyun Qian
 
-	*ACL/IJCNLP 2021 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/BRIDGE) &#124; [paper](https://aclanthology.org/2021.acl-long.27/) *
+	*ACL/IJCNLP 2021 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/BRIDGE) &#124; [paper](https://aclanthology.org/2021.acl-long.27/)*
 
 2. **Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis**
 
