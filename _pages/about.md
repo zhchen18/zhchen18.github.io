@@ -51,6 +51,6 @@ Publication
 
 Service
 ------
-- ACL/IJCNLP 2021 reviewer.
-- EMNLP 2021 reviewer.
-- SocialNLP@NAACL 2021 reviewer.
+- ACL/IJCNLP 2021, reviewer 
+- EMNLP 2021, reviewer
+- SocialNLP@NAACL 2021, reviewer
