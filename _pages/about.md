@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D. candidate at the School of Computer Science, Wuhan University, China, supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209) My current research interests include information extraction, sentiment analysis, and domain adaptation. I received my B.S. and M.Eng degrees in Electronic Science and Technology from Huazhong University of Science and Technology, China in 2013 and 2016, respectively. In 2016~2018, I worked in Nanjing R&D Center of ZTE as a digital circuit engineer. I expect to complete my PhD study in 06/2022, and I'm about to look for a Assistant Professor (AP) position. ([CV](https://github.com/zhchen18/zhchen18.github.io/blob/master/files/CV-ZhuangChen.pdf))
+I am now a Ph.D. candidate at the School of Computer Science, Wuhan University, China, supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209) My current research interests include information extraction, sentiment analysis, and domain adaptation. I received my B.S. and M.Eng degrees in Electronic Science and Technology from Huazhong University of Science and Technology, China in 2013 and 2016, respectively. In 2016~2018, I worked in Nanjing R&D Center of ZTE as a digital circuit engineer. I expect to complete my PhD study in 06/2022 and I'm now looking for a Assistant Professor (AP) position. ([CV](https://github.com/zhchen18/zhchen18.github.io/blob/master/files/CV-ZhuangChen.pdf))
 
 
 Publication
