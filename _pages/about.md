@@ -17,37 +17,37 @@ Publication
 
 	**Zhuang Chen**, Tieyun Qian
 
-	*ACL/IJCNLP 2021 (CCF-A) | [code](https://github.com/NLPWM-WHU/BRIDGE) | [paper](https://aclanthology.org/2021.acl-long.27/) *
+	*ACL/IJCNLP 2021 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/BRIDGE) &#124; [paper](https://aclanthology.org/2021.acl-long.27/) *
 
 2. **Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis**
 
 	**Zhuang Chen**, Tieyun Qian
 
-	*ACL 2020 (CCF-A) | [code](https://github.com/NLPWM-WHU/RACL) | [paper](https://aclanthology.org/2020.acl-main.340/)*
+	*ACL 2020 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/RACL) &#124; [paper](https://aclanthology.org/2020.acl-main.340/)*
  
 3. **Enhancing Aspect Term Extraction with Soft Prototypes**
 
 	**Zhuang Chen**, Tieyun Qian
 
-	*EMNLP 2020 (CCF-B) | [code](https://github.com/NLPWM-WHU/SoftProto) | [paper](https://aclanthology.org/2020.emnlp-main.164/)*
+	*EMNLP 2020 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/SoftProto) &#124; [paper](https://aclanthology.org/2020.emnlp-main.164/)*
 
 4. **Transfer Capsule Network for Aspect Level Sentiment Classification** 
 
 	**Zhuang Chen**, Tieyun Qian
 
-	*ACL 2019 (CCF-A) | [code](https://github.com/NLPWM-WHU/TransCap) | [paper](https://aclanthology.org/P19-1052/)*
+	*ACL 2019 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/TransCap) &#124; [paper](https://aclanthology.org/P19-1052/)*
 
 5. **Aspect Aware Learning for Aspect Category Sentiment Analysis**
 
 	Peisong Zhu, **Zhuang Chen**, Haojie Zheng, Tieyun Qian
 
-	*TKDD 2019 (CCF-B) | [code](https://github.com/NLPWM-WHU/AAL) | [paper](https://dl.acm.org/doi/10.1145/3350487)*
+	*TKDD 2019 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/AAL) &#124; [paper](https://dl.acm.org/doi/10.1145/3350487)*
 
 6. **Aspect-Level Sentiment Classification with Dependency Rules and Dual Attention**
 
 	Yunkai Yang, Tieyun Qian, **Zhuang Chen**
 
-	*ICONIP 2019 (CCF-C) | [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-36711-4_54)*
+	*ICONIP 2019 (CCF-C) &#124; [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-36711-4_54)*
 
 Service
 ------
