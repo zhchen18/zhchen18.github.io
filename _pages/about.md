@@ -58,3 +58,10 @@ Service
 - ACL/IJCNLP 2021, Reviewer 
 - EMNLP 2021, Reviewer
 - SocialNLP@NAACL 2021, Reviewer
+
+Award
+------
+- Outstanding Graduate Award, Wuhan University, 2019, 2020
+- Outstanding Academic Scholarship, Wuhan University, 2019, 2020
+- Star Teacher Scholarship, Wuhan University, 2019, 2020
+- Second-Class Scholarship of Doctoral Forum, Wuhan University, 2019, 2020
