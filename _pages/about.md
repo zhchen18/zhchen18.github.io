@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuang Chen"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
- I am now a Ph.D. candidate at the School of Computer Science, Wuhan University, China, supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209). My current research interests include information extraction, sentiment analysis, and domain adaptation. 
+ I am now a Ph.D. candidate at the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209). My current research interests include information extraction, sentiment analysis, and domain adaptation. 
 
- I received my B.S. and M.Eng degrees in Electronic Science and Technology from Huazhong University of Science and Technology, China in 2013 and 2016, respectively. In 2016~2018, I worked in the Nanjing R&D Center of ZTE as a digital circuit engineer. 
+ I received my B.S. and M.Eng degrees at the [Department of Electronic Science and Technology, Huazhong University of Science and Technology](http://oei.hust.edu.cn/) in 2013 and 2016, supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). In 2016 ~ 2018, I worked as a digital circuit engineer in the [Nanjing R&D Center of ZTE](https://www.zte.com.cn/china/).
 
- I expect to complete my Ph.D. study in 06/2022 and I'm now looking for an Assistant Professor (AP) position. ([CV](https://github.com/zhchen18/zhchen18.github.io/blob/master/files/CV-ZhuangChen.pdf))
+ I expect to complete my Ph.D. study in 06/2022 and I'm now looking for an Assistant Professor (AP) position. ([Curriculum Vitae](https://github.com/zhchen18/zhchen18.github.io/blob/master/files/CV-ZhuangChen.pdf))
 
 
 Publication
@@ -55,6 +55,6 @@ Publication
 
 Service
 ------
-- ACL/IJCNLP 2021, reviewer 
-- EMNLP 2021, reviewer
-- SocialNLP@NAACL 2021, reviewer
+- ACL/IJCNLP 2021, Reviewer 
+- EMNLP 2021, Reviewer
+- SocialNLP@NAACL 2021, Reviewer
