@@ -65,3 +65,29 @@ Award
 - Outstanding Academic Scholarship, Wuhan University, 2019, 2020
 - Star Teacher Scholarship, Wuhan University, 2019, 2020
 - Second-Class Scholarship of Doctoral Forum, Wuhan University, 2019, 2020
+
+Patent
+------
+1. **A Method, Device, Equipment and Readable Storage Medium for Text Classification**
+
+	Jing Zhu, Binqiang Pan,Ji Li, Jun Zhang, Ruibin Mao, Tieyun Qian, Xuhui Li, **Zhuang Chen**
+
+	*CN patent, 111611379A*
+	
+2. **A Pixel Voltage Reading Circuit for Continuous Narrow Current Pulse**
+
+	Guoyi Yu, **Zhuang Chen**, Wei Huang
+
+	*CN patent, 105425012A*
+	
+3. **An Active Address Coding and Output Circuit for APD array **
+
+	Guoyi Yu, Wei Huang, **Zhuang Chen**
+
+	*CN patent, 105406856A*
+	
+4. **A Four-Channel Selection Circuit for Output Voltage of APD Pixel Block**
+
+	Guoyi Yu, Wei Huang, **Zhuang Chen**
+
+	*CN patent, 105357820A*
