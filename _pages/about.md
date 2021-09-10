@@ -80,7 +80,7 @@ Patent
 
 	*CN patent, 105425012A*
 	
-3. **An Active Address Coding and Output Circuit for APD array **
+3. **An Active Address Coding and Output Circuit for APD array**
 
 	Guoyi Yu, Wei Huang, **Zhuang Chen**
 
