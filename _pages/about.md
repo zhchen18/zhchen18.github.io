@@ -68,25 +68,31 @@ Award
 
 Patent
 ------
-1. **A Method, Device, Equipment and Readable Storage Medium for Text Classification**
+1. **A Multi-task Interaction Enhanced Event Extraction Method for Electronic Text**
+
+	Tieyun Qian, Xiaoya Tang, **Zhuang Chen**
+
+	*CN patent, 112069811A*
+	
+2. **A Method, Device, Equipment and Readable Storage Medium for Text Classification**
 
 	Jing Zhu, Binqiang Pan,Ji Li, Jun Zhang, Ruibin Mao, Tieyun Qian, Xuhui Li, **Zhuang Chen**
 
 	*CN patent, 111611379A*
 	
-2. **A Pixel Voltage Reading Circuit for Continuous Narrow Current Pulse**
+3. **A Pixel Voltage Reading Circuit for Continuous Narrow Current Pulse**
 
 	Guoyi Yu, **Zhuang Chen**, Wei Huang
 
 	*CN patent, 105425012A*
 	
-3. **An Active Address Coding and Output Circuit for APD array**
+4. **An Active Address Coding and Output Circuit for APD array**
 
 	Guoyi Yu, Wei Huang, **Zhuang Chen**
 
 	*CN patent, 105406856A*
 	
-4. **A Four-Channel Selection Circuit for Output Voltage of APD Pixel Block**
+5. **A Four-Channel Selection Circuit for Output Voltage of APD Pixel Block**
 
 	Guoyi Yu, Wei Huang, **Zhuang Chen**
 
