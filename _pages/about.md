@@ -12,7 +12,7 @@ redirect_from:
 
  I received my B.S. and M.Eng degrees at the [Department of Electronic Science and Technology, Huazhong University of Science and Technology](http://oei.hust.edu.cn/) in 2013 and 2016, supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). In 2016 ~ 2018, I worked as a digital circuit engineer in the [Nanjing R&D Center of ZTE](https://www.zte.com.cn/china/).
 
- I expect to complete my Ph.D. study in 06/2022 and I'm now looking for an Assistant Professor (AP) position. ([Curriculum Vitae](https://github.com/zhchen18/zhchen18.github.io/blob/master/files/CV-ZhuangChen.pdf))
+ I expect to complete my Ph.D. study in 06/2022 and I'm now looking for an Assistant Professor (AP) position. ([Curriculum Vitae](https://github.com/zhchen18/zhchen18.github.io/blob/master/files/%E7%AE%80%E5%8E%86-%E9%99%88%E5%A3%AE.pdf))
 
 
 Publication
