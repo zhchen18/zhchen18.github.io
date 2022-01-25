@@ -61,7 +61,7 @@ Publication
 
 8. **Generating Pseudo Connectives with MLMs for Implicit Discourse Relation Recognition**
 
-	Peisong Zhu, **Zhuang Chen**, Haojie Zheng, Tieyun Qian
+	Congcong Jiang, Tieyun Qian, **Zhuang Chen**, Kejian Tang, Shaohui Zhan, Tao Zhan
 
 	*PRICAI 2021 (CCF-C) &#124; [code](https://github.com/NLPWM-WHU/DRR) &#124; [paper](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_9)*
 
