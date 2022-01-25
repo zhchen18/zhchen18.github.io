@@ -39,7 +39,7 @@ Publication
 
 	**Zhuang Chen**, Tieyun Qian
 
-	*TASLP 2022 (CCF-B, SCI Q1) &#124; Coming soon*
+	*TASLP 2022 (CCF-B, SCI Q1) &#124; coming soon*
  
 5. **Description and Demonstration Guided Data Augmentation for Sequence Tagging**
 
@@ -73,16 +73,17 @@ Publication
 
 Service
 ------
-- ACL/IJCNLP 2021, Reviewer 
-- EMNLP 2021, Reviewer
-- SocialNLP@NAACL 2021, Reviewer
+- ACL 2021, 2022, Reviewer 
+- EMNLP 2021, 2022, Reviewer
+- NAACL 2021, 2022, Reviewer
 
 Award
 ------
-- Outstanding Graduate Award, Wuhan University, 2019, 2020
+- Outstanding Graduate Award, Wuhan University, 2019, 2020, 2021
 - Outstanding Academic Scholarship, Wuhan University, 2019, 2020
 - Star Teacher Scholarship, Wuhan University, 2019, 2020
-- Second-Class Scholarship of Doctoral Forum, Wuhan University, 2019, 2020
+- Scholarship of Doctoral Forum, Wuhan University, 2019, 2020
+- Academic Innovation Award, Wuhan University, 2021
 
 Patent
 ------
