@@ -28,26 +28,44 @@ Publication
 	**Zhuang Chen**, Tieyun Qian
 
 	*ACL 2020 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/RACL) &#124; [paper](https://aclanthology.org/2020.acl-main.340/)*
+
+3. **Transfer Capsule Network for Aspect Level Sentiment Classification** 
+
+	**Zhuang Chen**, Tieyun Qian
+
+	*ACL 2019 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/TransCap) &#124; [paper](https://aclanthology.org/P19-1052/)*
  
-3. **Enhancing Aspect Term Extraction with Soft Prototypes**
+4. **Retrieve-and-Edit Domain Adaptation for End2End Aspect Based Sentiment Analysis**
+
+	**Zhuang Chen**, Tieyun Qian
+
+	*TASLP 2022 (CCF-B, SCI Q1) &#124; Coming soon *
+ 
+5. **Description and Demonstration Guided Data Augmentation for Sequence Tagging**
+
+	**Zhuang Chen**, Tieyun Qian
+
+	*EMNLP 2020 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/D3A) &#124; [paper](https://link.springer.com/article/10.1007/s11280-021-00978-0)*
+ 
+6. **Enhancing Aspect Term Extraction with Soft Prototypes**
 
 	**Zhuang Chen**, Tieyun Qian
 
 	*EMNLP 2020 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/SoftProto) &#124; [paper](https://aclanthology.org/2020.emnlp-main.164/)*
 
-4. **Transfer Capsule Network for Aspect Level Sentiment Classification** 
-
-	**Zhuang Chen**, Tieyun Qian
-
-	*ACL 2019 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/TransCap) &#124; [paper](https://aclanthology.org/P19-1052/)*
-
-5. **Aspect Aware Learning for Aspect Category Sentiment Analysis**
+7. **Aspect Aware Learning for Aspect Category Sentiment Analysis**
 
 	Peisong Zhu, **Zhuang Chen**, Haojie Zheng, Tieyun Qian
 
-	*TKDD 2019 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/AAL) &#124; [paper](https://dl.acm.org/doi/10.1145/3350487)*
+	*TKDD 2019 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/DRR) &#124; [paper](https://dl.acm.org/doi/10.1145/3350487)*
 
-6. **Aspect-Level Sentiment Classification with Dependency Rules and Dual Attention**
+8. **Generating Pseudo Connectives with MLMs for Implicit Discourse Relation Recognition**
+
+	Peisong Zhu, **Zhuang Chen**, Haojie Zheng, Tieyun Qian
+
+	*TKDD 2019 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/AAL) &#124; [paper](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_9)*
+
+9. **Aspect-Level Sentiment Classification with Dependency Rules and Dual Attention**
 
 	Yunkai Yang, Tieyun Qian, **Zhuang Chen**
 
