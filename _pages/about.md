@@ -39,7 +39,7 @@ Publication
 
 	**Zhuang Chen**, Tieyun Qian
 
-	*TASLP 2022 (CCF-B, SCI Q1) &#124; Coming soon *
+	*TASLP 2022 (CCF-B, SCI Q1) &#124; Coming soon*
  
 5. **Description and Demonstration Guided Data Augmentation for Sequence Tagging**
 
