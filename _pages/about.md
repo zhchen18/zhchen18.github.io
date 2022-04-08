@@ -116,3 +116,5 @@ Patent
 	Guoyi Yu, Wei Huang, **Zhuang Chen**
 
 	*CN patent, 105357820A*
+	
+([WWW-Poster](https://github.com/zhchen18/zhchen18.github.io/blob/master/files/WWW22-OTMT-Poster.pdf))
