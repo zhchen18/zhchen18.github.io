@@ -117,4 +117,3 @@ Patent
 
 	*CN patent, 105357820A*
 	
-([WWW-Poster](https://zhchen18.github.io/_pages/WWW22-OTMT-Poster.pdf))
