@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- I am now a Ph.D. candidate at the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209). My current research interests include information extraction, sentiment analysis, and domain adaptation. 
+ I am now a Ph.D. candidate at the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209). 
+ 
+ My current research interests include information extraction, sentiment analysis, and domain adaptation. 
 
  I received my B.S. and M.Eng degrees at the [Department of EST, HUST](http://oei.hust.edu.cn/) in 2013 and 2016, supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). 
  
