@@ -77,9 +77,13 @@ Publication
 
 Service
 ------
-- ACL 2021, 2022, Reviewer 
-- EMNLP 2021, 2022, Reviewer
-- NAACL 2021, 2022, Reviewer
+- CIPS, Student Member
+- ACL 2021, Reviewer 
+- EMNLP 2021, Reviewer
+- NAACL 2021, Reviewer
+- TNNLS, Reviewer
+- TALLIP, Reviewer
+- ARR, Reviewer
 
 Award
 ------
