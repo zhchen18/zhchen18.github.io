@@ -10,7 +10,7 @@ redirect_from:
 
  I am now a Ph.D. candidate at the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209). My current research interests include information extraction, sentiment analysis, and domain adaptation. 
 
- I received my B.S. and M.Eng degrees at the [Department of Electronic Science and Technology, Huazhong University of Science and Technology](http://oei.hust.edu.cn/) in 2013 and 2016, supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). In 2016 ~ 2018, I worked as a digital circuit engineer in the [Nanjing R&D Center of ZTE](https://www.zte.com.cn/china/).
+ I received my B.S. and M.Eng degrees at the [Department of EST, Huazhong University of Science and Technology](http://oei.hust.edu.cn/) in 2013 and 2016, supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). In 2016 ~ 2018, I worked as a digital circuit engineer in the [Nanjing R&D Center of ZTE](https://www.zte.com.cn/china/).
 
  I expect to complete my Ph.D. study in 06/2022.
 
