@@ -43,8 +43,8 @@ Publication
 
 	**Zhuang Chen**, Tieyun Qian
 
-	*TASLP 2022 (CCF-B, SCI Q1) &#124; coming soon*
- 
+	*TASLP 2022 (CCF-B, SCI Q1) &#124; [code](https://github.com/NLPWM-WHU/TransProto) &#124; [paper](https://ieeexplore.ieee.org/document/9693267)*
+	
 5. **Description and Demonstration Guided Data Augmentation for Sequence Tagging**
 
 	**Zhuang Chen**, Tieyun Qian
