@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- I am now a Ph.D. candidate at the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209). 
+ I am currently a postdoctoral researcher in the [COAI](http://coai.cs.tsinghua.edu.cn/) group at Tsinghua University. 
+ 
+ Prior to this, I received my PhD degree from [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/) in June 2022, supervised by Professor [Tieyun Qian](https://cs.whu.edu.cn/info/1019/2852.htm).  
  
  My current research interests include information extraction, sentiment analysis, and domain adaptation. 
 
