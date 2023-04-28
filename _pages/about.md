@@ -11,10 +11,10 @@ redirect_from:
  I am currently a postdoctoral researcher in the [COAI](http://coai.cs.tsinghua.edu.cn/) group at Tsinghua University. 
  
  Prior to this, I received my PhD degree from the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](https://cs.whu.edu.cn/info/1019/2852.htm).  
- 
- My current research interests include information extraction, emotional dialog systems, social intelligence of LLMs, etc. 
 
  I received my B.S. and M.Eng degrees from the [Department of EST, HUST](http://oei.hust.edu.cn/), supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). 
+ 
+ My current research interests include information extraction, emotional dialog systems, social intelligence of LLMs, etc. 
  
 
 Publication
