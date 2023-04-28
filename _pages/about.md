@@ -10,16 +10,12 @@ redirect_from:
 
  I am currently a postdoctoral researcher in the [COAI](http://coai.cs.tsinghua.edu.cn/) group at Tsinghua University. 
  
- Prior to this, I received my PhD degree from the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/) in June 2022, supervised by Professor [Tieyun Qian](https://cs.whu.edu.cn/info/1019/2852.htm).  
+ Prior to this, I received my PhD degree from the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](https://cs.whu.edu.cn/info/1019/2852.htm).  
  
- My current research interests include information extraction, sentiment analysis, and domain adaptation. 
+ My current research interests include information extraction, emotional dialog systems, social intelligence of LLMs, etc. 
 
- I received my B.S. and M.Eng degrees at the [Department of EST, HUST](http://oei.hust.edu.cn/) in 2013 and 2016, supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). 
+ I received my B.S. and M.Eng degrees from the [Department of EST, HUST](http://oei.hust.edu.cn/), supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). 
  
- In 2016 ~ 2018, I worked as a digital circuit engineer in the [Nanjing R&D Center of ZTE](https://www.zte.com.cn/china/).
-
- I expect to complete my Ph.D. study in 06/2022.
-
 
 Publication
 ------
