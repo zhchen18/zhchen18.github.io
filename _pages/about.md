@@ -12,7 +12,7 @@ redirect_from:
  
  Prior to this, I received my PhD degree from the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](https://cs.whu.edu.cn/info/1019/2852.htm).  
 
- I received my B.S. and M.Eng degrees from the [Department of EST, HUST](http://oei.hust.edu.cn/), supervised by Professor [Guoyi Yu](http://oei.hust.edu.cn/info/1104/5778.htm). 
+ I received my B.S. and M.Eng degrees from the [Department of EST, HUST](http://oei.hust.edu.cn/), supervised by Professor [Guoyi Yu](http://ime.hust.edu.cn/info/1014/1147.htm). 
  
  My current research interests include information extraction, emotional dialog systems, social intelligence of LLMs, etc. 
  
