@@ -148,7 +148,7 @@ Award
 
 Patent
 ------
-1.**A Message Processing Method, Device, and Storage Medium**
+1. **A Message Processing Method, Device, and Storage Medium**
 
 	**Zhuang Chen**, Chao Song, Ziqiang Liu, Zhenlin Yan, Zhizhong Wang
 
