@@ -19,55 +19,58 @@ redirect_from:
 
 Publication
 ------
-1. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**
+1. **ToMBench: Benchmarking Theory of Mind in Large Language Models**
+	Zhuang Chen\dagger, Jincenzi Wu\dagger, Jinfeng Zhou\dagger, Bosi Wen\dagger, Guanqun Bi, Gongyao Jiang, Yaru Cao, Mengting Hu, Yunghwei Lai, Zexuan Xiong, Minlie Huang
+2.
+3. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**
 
 	**Zhuang Chen**, Tieyun Qian
 
 	*ACL/IJCNLP 2021 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/BRIDGE) &#124; [paper](https://aclanthology.org/2021.acl-long.27/)*
 
-2. **Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis**
+4. **Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis**
 
 	**Zhuang Chen**, Tieyun Qian
 
 	*ACL 2020 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/RACL) &#124; [paper](https://aclanthology.org/2020.acl-main.340/)*
 
-3. **Transfer Capsule Network for Aspect Level Sentiment Classification** 
+5. **Transfer Capsule Network for Aspect Level Sentiment Classification** 
 
 	**Zhuang Chen**, Tieyun Qian
 
 	*ACL 2019 (CCF-A) &#124; [code](https://github.com/NLPWM-WHU/TransCap) &#124; [paper](https://aclanthology.org/P19-1052/)*
  
-4. **Retrieve-and-Edit Domain Adaptation for End2End Aspect Based Sentiment Analysis**
+6. **Retrieve-and-Edit Domain Adaptation for End2End Aspect Based Sentiment Analysis**
 
 	**Zhuang Chen**, Tieyun Qian
 
 	*TASLP 2022 (CCF-B, SCI Q1) &#124; [code](https://github.com/NLPWM-WHU/TransProto) &#124; [paper](https://ieeexplore.ieee.org/document/9693267)*
 	
-5. **Description and Demonstration Guided Data Augmentation for Sequence Tagging**
+7. **Description and Demonstration Guided Data Augmentation for Sequence Tagging**
 
 	**Zhuang Chen**, Tieyun Qian
 
 	*WWWJ 2021 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/D3A) &#124; [paper](https://link.springer.com/article/10.1007/s11280-021-00978-0)*
  
-6. **Enhancing Aspect Term Extraction with Soft Prototypes**
+8. **Enhancing Aspect Term Extraction with Soft Prototypes**
 
 	**Zhuang Chen**, Tieyun Qian
 
 	*EMNLP 2020 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/SoftProto) &#124; [paper](https://aclanthology.org/2020.emnlp-main.164/)*
 
-7. **Aspect Aware Learning for Aspect Category Sentiment Analysis**
+9. **Aspect Aware Learning for Aspect Category Sentiment Analysis**
 
 	Peisong Zhu, **Zhuang Chen**, Haojie Zheng, Tieyun Qian
 
 	*TKDD 2019 (CCF-B) &#124; [code](https://github.com/NLPWM-WHU/AAL) &#124; [paper](https://dl.acm.org/doi/10.1145/3350487)*
 
-8. **Generating Pseudo Connectives with MLMs for Implicit Discourse Relation Recognition**
+10. **Generating Pseudo Connectives with MLMs for Implicit Discourse Relation Recognition**
 
 	Congcong Jiang, Tieyun Qian, **Zhuang Chen**, Kejian Tang, Shaohui Zhan, Tao Zhan
 
 	*PRICAI 2021 (CCF-C) &#124; [code](https://github.com/NLPWM-WHU/DRR) &#124; [paper](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_9)*
 
-9. **Aspect-Level Sentiment Classification with Dependency Rules and Dual Attention**
+11. **Aspect-Level Sentiment Classification with Dependency Rules and Dual Attention**
 
 	Yunkai Yang, Tieyun Qian, **Zhuang Chen**
 
