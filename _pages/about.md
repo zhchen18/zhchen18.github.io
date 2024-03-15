@@ -23,55 +23,55 @@ Publication
 
 	**Zhuang Chen**, Jiawen Deng, Jinfeng Zhou, Jincenzi Wu, Tieyun Qian, Minlie Huang
 
-	NAACL 2024  (CCF-B)
+	*NAACL 2024  (CCF-B)*
 
 2. **ToMBench: Benchmarking Theory of Mind in Large Language Models**
 
 	**Zhuang Chen**†, Jincenzi Wu†, Jinfeng Zhou†, Bosi Wen†, Guanqun Bi, Gongyao Jiang, Yaru Cao, Mengting Hu, Yunghwei Lai, Zexuan Xiong, Minlie Huang
 
-	arXiv preprint arXiv:2402.15052
+	*arXiv preprint arXiv:2402.15052*
 
 3. **Characterglm: Customizing chinese conversational ai characters with large language models**
 
 	Jinfeng Zhou†, **Zhuang Chen**†, Dazhen Wan†, Bosi Wen†, Yi Song†, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang
 
-	arXiv preprint arXiv:2311.16832
+	*arXiv preprint arXiv:2311.16832*
 
 4. **Coke: A cognitive knowledge graph for machine theory of mind**
 
 	Jincenzi Wu†, **Zhuang Chen**†, Jiawen Deng, Sahand Sabour, Minlie Huang
 
-	arXiv preprint arXiv:2305.05390
+	*arXiv preprint arXiv:2305.05390*
 
 5. **Low-resource aspect-based sentiment analysis: A survey**
 
 	**Zhuang Chen**, Tieyun Qian, Wanli Li, Ting Zhang, Shen Zhou, Ming Zhong, Yuanyuan Zhu, Mengchi Liu
 
-	Chinese Journal of Computers 2023 (CCF-A)
+	*Chinese Journal of Computers 2023 (CCF-A)*
 
 6. **Facilitating multi-turn emotional support conversation with positive emotion elicitation: A reinforcement learning approach**
 
 	Jinfeng Zhou†, **Zhuang Chen**†, Bo Wang, Minlie Huang
 
-	ACL 2023 (CCF-A)
+	*ACL 2023 (CCF-A)*
 
 7. **Mimicking the thinking process for emotion recognition in conversation with prompts and paraphrasing**
 
 	Ting Zhang, **Zhuang Chen**, Ming Zhong, Tieyun Qian
 
-	IJCAI 2023 (CCF-A)
+	*IJCAI 2023 (CCF-A)*
 
 8. **Enhancing Offensive Language Detection with Data Augmentation and Knowledge Distillation**
 
 	Jiawen Deng, **Zhuang Chen**, Hao Sun, Zhexin Zhang, Jincenzi Wu, Satoshi Nakagawa, Fuji Ren, Minlie Huang
 
-	RESEARCH 2023 (SCI Q1)
+	*RESEARCH 2023 (SCI Q1)*
 
 9. **Pal: Persona-augmented emotional support conversation generation**
 
 	Jiale Cheng, Sahand Sabour, Hao Sun, **Zhuang Chen**, Minlie Huang
 
-	ACL 2023 Fingdings (CCF-A)
+	*ACL 2023 Fingdings (CCF-A)*
 
 
 10. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**
@@ -131,16 +131,16 @@ Publication
 Service
 ------
 - CIPS, Student Member
-- ACL 2021, Reviewer 
-- EMNLP 2021, Reviewer
-- NAACL 2021, Reviewer
-- TNNLS, Reviewer
-- TALLIP, Reviewer
-- ARR, Reviewer
+- Area Chair: ACL 2024, NAACL 2024
+- PC Member: ACL 2021-2023、EMNLP 2021-2023、NAACL 2021-2023、AAAI 2024、IJCAI 2023-2024、WSDM 2023、COLM 2024
+- Standing Reviewer: TACL, CL
+- Reviewer: IEEE/ACM TASLP、IEEE TNNLS、IEEE TBD、ACM TALLIP、International Journal of Intelligent Systems、Applied Intelligence、Journal of Supercomputing、Connection Science
+
 
 Award
 ------
-- Outstanding Graduate Award, Wuhan University, 2019, 2020, 2021
+- Outstanding Graduate Award, Wuhan University, 2022
+- Outstanding Graduate Student, Wuhan University, 2019, 2020, 2021
 - Outstanding Academic Scholarship, Wuhan University, 2019, 2020
 - Star Teacher Scholarship, Wuhan University, 2019, 2020
 - Scholarship of Doctoral Forum, Wuhan University, 2019, 2020
@@ -148,33 +148,39 @@ Award
 
 Patent
 ------
-1. **A Multi-task Interaction Enhanced Event Extraction Method for Electronic Text**
+1.**A Message Processing Method, Device, and Storage Medium**
+
+	**Zhuang Chen**, Chao Song, Ziqiang Liu, Zhenlin Yan, Zhizhong Wang
+
+	*CN patent, 201811333635.8*
+
+2. **A Multi-task Interaction Enhanced Event Extraction Method for Electronic Text**
 
 	Tieyun Qian, Xiaoya Tang, **Zhuang Chen**
 
-	*CN patent, 112069811A*
+	*CN patent, 202010856264.2*
 	
-2. **A Method, Device, Equipment and Readable Storage Medium for Text Classification**
+3. **A Method, Device, Equipment and Readable Storage Medium for Text Classification**
 
 	Jing Zhu, Binqiang Pan,Ji Li, Jun Zhang, Ruibin Mao, Tieyun Qian, Xuhui Li, **Zhuang Chen**
 
-	*CN patent, 111611379A*
+	*CN patent, 202010420260.X*
 	
-3. **A Pixel Voltage Reading Circuit for Continuous Narrow Current Pulse**
+4. **A Pixel Voltage Reading Circuit for Continuous Narrow Current Pulse**
 
 	Guoyi Yu, **Zhuang Chen**, Wei Huang
 
-	*CN patent, 105425012A*
+	*CN patent, 201510763277.4*
 	
-4. **An Active Address Coding and Output Circuit for APD array**
+5. **An Active Address Coding and Output Circuit for APD array**
 
 	Guoyi Yu, Wei Huang, **Zhuang Chen**
 
-	*CN patent, 105406856A*
+	*CN patent, 201510765438.3*
 	
-5. **A Four-Channel Selection Circuit for Output Voltage of APD Pixel Block**
+6. **A Four-Channel Selection Circuit for Output Voltage of APD Pixel Block**
 
 	Guoyi Yu, Wei Huang, **Zhuang Chen**
 
-	*CN patent, 105357820A*
+	*CN patent, 201510759842.X*
 	
