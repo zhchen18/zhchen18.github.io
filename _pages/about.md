@@ -27,7 +27,7 @@ Publication
 
 	**Zhuang Chen**†, Jincenzi Wu†, Jinfeng Zhou†, Bosi Wen†, Guanqun Bi, Gongyao Jiang, Yaru Cao, Mengting Hu, Yunghwei Lai, Zexuan Xiong, Minlie Huang
 
-	*arXiv preprint arXiv:2402.15052*
+	*ACL 2024 (CCF-A)*
 
 3. **Characterglm: Customizing chinese conversational ai characters with large language models**
 
@@ -39,7 +39,7 @@ Publication
 
 	Jincenzi Wu†, **Zhuang Chen**†, Jiawen Deng, Sahand Sabour, Minlie Huang
 
-	*arXiv preprint arXiv:2305.05390*
+	*ACL 2024 (CCF-A)*
 
 5. **Low-resource aspect-based sentiment analysis: A survey**
 
