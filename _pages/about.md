@@ -12,8 +12,7 @@ redirect_from:
  
  Prior to this, I received my PhD degree from the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/), supervised by Professor [Tieyun Qian](https://cs.whu.edu.cn/info/1019/2852.htm), and my B.S. and M.Eng degrees from the [Department of EST, HUST](http://oei.hust.edu.cn/), supervised by Professor [Guoyi Yu](http://ime.hust.edu.cn/info/1014/1147.htm). 
  
- My current research interests include humanlike dialog systems, AI x mental healthcare, social intelligence of LLMs, etc. 
- 
+My current research interests focus on *Natural Language Processing (NLP)*, with an emphasis on *Large Language Models (LLMs)*, *Social Intelligence*, *Computational Psychology*, and related areas.
 
 Publication
 ------
