@@ -28,31 +28,31 @@ Publication
 
 	*ACL 2024 (CCF-A)*
 
-3. **Characterglm: Customizing chinese conversational ai characters with large language models**
+3. **CharacterGLM: Customizing Chinese Conversational AI Characters with Large Language Models**
 
 	Jinfeng Zhou†, **Zhuang Chen**†, Dazhen Wan†, Bosi Wen†, Yi Song†, Jifan Yu, Yongkang Huang, Libiao Peng, Jiaming Yang, Xiyao Xiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Jie Tang, Minlie Huang
 
 	*arXiv preprint arXiv:2311.16832*
 
-4. **Coke: A cognitive knowledge graph for machine theory of mind**
+4. **COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**
 
 	Jincenzi Wu†, **Zhuang Chen**†, Jiawen Deng, Sahand Sabour, Minlie Huang
 
 	*ACL 2024 (CCF-A)*
 
-5. **Low-resource aspect-based sentiment analysis: A survey**
+5. **Low-Resource Aspect-Based Sentiment Analysis: A Survey**
 
 	**Zhuang Chen**, Tieyun Qian, Wanli Li, Ting Zhang, Shen Zhou, Ming Zhong, Yuanyuan Zhu, Mengchi Liu
 
 	*Chinese Journal of Computers 2023 (CCF-T1 Chinese Journal)*
 
-6. **Facilitating multi-turn emotional support conversation with positive emotion elicitation: A reinforcement learning approach**
+6. **Facilitating Multi-turn Emotional Support Conversation with Positive Emotion Elicitation: A Reinforcement Learning Approach**
 
 	Jinfeng Zhou†, **Zhuang Chen**†, Bo Wang, Minlie Huang
 
 	*ACL 2023 (CCF-A)*
 
-7. **Mimicking the thinking process for emotion recognition in conversation with prompts and paraphrasing**
+7. **Mimicking the Thinking Process for Emotion Recognition in Conversation with Prompts and Paraphrasing**
 
 	Ting Zhang, **Zhuang Chen**, Ming Zhong, Tieyun Qian
 
@@ -64,7 +64,7 @@ Publication
 
 	*RESEARCH 2023 (SCI Q1)*
 
-9. **Pal: Persona-augmented emotional support conversation generation**
+9. **PAL: Persona-Augmented Emotional Support Conversation Generation**
 
 	Jiale Cheng, Sahand Sabour, Hao Sun, **Zhuang Chen**, Minlie Huang
 
