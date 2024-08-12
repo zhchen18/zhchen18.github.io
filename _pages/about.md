@@ -44,7 +44,7 @@ Publication
 
 	**Zhuang Chen**, Tieyun Qian, Wanli Li, Ting Zhang, Shen Zhou, Ming Zhong, Yuanyuan Zhu, Mengchi Liu
 
-	*Chinese Journal of Computers 2023 (CCF-A)*
+	*Chinese Journal of Computers 2023 (CCF-T1 Chinese Journal)*
 
 6. **Facilitating multi-turn emotional support conversation with positive emotion elicitation: A reinforcement learning approach**
 
@@ -128,7 +128,7 @@ Publication
 Service
 ------
 - CIPS, Student Member
-- Area Chair: ACL 2024, NAACL 2024
+- Area Chair: ACL 2024, NAACL 2024, EMNLP 2024
 - PC Member: ACL 2021-2023、EMNLP 2021-2023、NAACL 2021-2023、AAAI 2024、IJCAI 2023-2024、WSDM 2023、COLM 2024
 - Standing Reviewer: TACL, CL
 - Reviewer: IEEE/ACM TASLP、IEEE TNNLS、IEEE TBD、ACM TALLIP、International Journal of Intelligent Systems、Applied Intelligence、Journal of Supercomputing、Connection Science
